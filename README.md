@@ -1,3 +1,5 @@
+PathQuest | Dijkstra Pathfinding Visualizer
+
 PathQuest is a web-based visualizer for Dijkstra’s Algorithm, one of the most famous algorithms in Graph Theory. This tool allows users to see how the algorithm "explores" a grid to find the shortest path between a start and end point while navigating around custom-built obstacles.
 
 🚀 Features
